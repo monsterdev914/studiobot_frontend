@@ -116,13 +116,15 @@ VITE_BACKEND_URL=http://localhost:3457/api
 
 ## 🖼 Demo
 
-Watch the platform in action (playable below):
+Watch the platform in action:
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/monsterdev914/studio_bot/master/public/demo.mp4" controls width="100%" style="max-width: 720px; border-radius: 8px;">
-    Your browser does not support the video tag. <a href="https://github.com/monsterdev914/studio_bot/raw/master/public/demo.mp4">Download the demo video</a>.
+  <video src="./public/demo.mp4" controls width="100%" style="max-width: 720px; border-radius: 8px;">
+    Your browser does not support the video tag.
   </video>
 </div>
+
+**Can't see the video?** [Open or download it here](./public/demo.mp4). If it still doesn’t play inline, upload `public/demo.mp4` by dragging it into a [new Issue](https://github.com/monsterdev914/studio_bot/issues/new) comment—GitHub will host it and give you a URL. Replace the `src` above with that URL for reliable playback.
 
 ---
 
