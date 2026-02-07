@@ -115,9 +115,6 @@ VITE_BACKEND_URL=http://localhost:3457/api
 ---
 
 ## 🖼 Screenshots
-
-Add your app screenshots below (e.g. landing page, dashboard, settings). Place image files in a `screenshots/` folder in the repo and reference them like this:
-
 |  |  |  |
 |--|--|--|
 | ![Screenshot 1](./screenshots/screenshot-1.png) | ![Screenshot 2](./screenshots/screenshot-2.png) | ![Screenshot 3](./screenshots/screenshot-3.png) |
