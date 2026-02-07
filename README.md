@@ -12,7 +12,7 @@ A modern web platform that lets tattoo shops and similar businesses create, cust
 [Installation](#-installation)  
 [Usage](#-usage)  
 [Configuration](#-configuration)  
-[Demo](#-demo)  
+[Screenshots](#-screenshots)  
 [API Documentation](#-api-documentation)  
 [Contact](#-contact)  
 [Acknowledgements](#-acknowledgements)
@@ -114,17 +114,13 @@ VITE_BACKEND_URL=http://localhost:3457/api
 
 ---
 
-## 🖼 Demo
+## 🖼 Screenshots
 
-Watch the platform in action:
+Add your app screenshots below (e.g. landing page, dashboard, settings). Place image files in a `screenshots/` folder in the repo and reference them like this:
 
-<div align="center">
-  <video src="./public/demo.mp4" controls width="100%" style="max-width: 720px; border-radius: 8px;">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-**Can't see the video?** [Open or download it here](./public/demo.mp4). If it still doesn’t play inline, upload `public/demo.mp4` by dragging it into a [new Issue](https://github.com/monsterdev914/studio_bot/issues/new) comment—GitHub will host it and give you a URL. Replace the `src` above with that URL for reliable playback.
+|  |  |  |
+|--|--|--|
+| ![Screenshot 1](./screenshots/screenshot-1.png) | ![Screenshot 2](./screenshots/screenshot-2.png) | ![Screenshot 3](./screenshots/screenshot-3.png) |
 
 ---
 
