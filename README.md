@@ -115,7 +115,8 @@ VITE_BACKEND_URL=http://localhost:3457/api
 ---
 
 ## 🖼 Screenshots
-| ![Screenshot 1](./screenshots/screenshot-1.png) | ![Screenshot 2](./screenshots/screenshot-2.png) | ![Screenshot 3](./screenshots/screenshot-3.png) |
+![screenshot-1](https://github.com/user-attachments/assets/76bd76fa-da95-4786-bfc5-63b5008efc54) !![screenshot-2](https://github.com/user-attachments/assets/2fa7ed89-57af-4e28-a066-285a5987c594) !![screenshot-3](https://github.com/user-attachments/assets/f3b8c8b6-ab60-4365-ae25-547a55132f67)
+
 
 ---
 
